@@ -1,2 +1,3 @@
-# Calculator
-My first project in python, a boring calculator
+There is no need to open this file.
+
+It is a calculator afterall.
